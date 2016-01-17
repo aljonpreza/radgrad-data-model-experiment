@@ -24,6 +24,31 @@ defineTags = function() {
       slug: "data-scientist",
       description: "Combine statistics, data mining, and predictive analytics to gain insight from large data sets.",
       tagType: "professional-goals"
+    },
+      /* Define four new tags */
+    {
+      name: "Visualization",
+      slug: "visualization",
+      description: "Process of representing abstract business or scientific data as images that can aid in understanding the meaning of the data.",
+      tagType: "cs-disciplines"
+    },
+    {
+      name: "Professor",
+      slug: "professor",
+      description: "A teacher especially of the highest rank at a college or university.",
+      tagType: "professional-goals"
+    },
+    {
+      name: "Art",
+      slug: "art",
+      description: "The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power",
+      tagType: "non-cs-disciplines"
+    },
+    {
+      name: "Hawaii",
+      slug: "hawaii",
+      description: "U.S. state that is an isolated volcanic archipelago in the Central Pacific.",
+      tagType: "locations"
     }
   ];
 
