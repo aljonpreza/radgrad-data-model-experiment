@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/aljonpreza/radgrad-data-model-experiment/master/doc/images/radgradex.png)
 
-This application demonstrates my understanding of the RadGrad data model by defining an arrangement of entities.
+This application demonstrates my understanding of the [RadGrad data model](https://github.com/radgrad/data-model-example) by defining an arrangement of entities.
 
 
 ### Define four additional courses of your choice from the ICS curriculum.
