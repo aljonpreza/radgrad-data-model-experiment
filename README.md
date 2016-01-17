@@ -1,8 +1,11 @@
 # RadGrad Data Model Experiment
 
+![](https://raw.githubusercontent.com/aljonpreza/radgrad-data-model-experiment/master/doc/images/radgradex.png)
+
 This application demonstrates my understanding of the RadGrad data model by defining an arrangement of entities.
 
-* Define four additional courses of your choice from the ICS curriculum.
+
+### Define four additional courses of your choice from the ICS curriculum.
 
 ```
 {
@@ -34,12 +37,12 @@ This application demonstrates my understanding of the RadGrad data model by defi
       tags: ["art","software-engineering"]
     }
 ```
-* Define one new degree goal, “Network Engineer”, and another one of your own choosing.
+### Define one new degree goal, “Network Engineer”, and another one of your own choosing.
 ```
     {name: "Network Engineer", slug: "degree-goal-network-eng", description:"Establishes and maintains network performance by building net configurations and connections."},
     {name: "Game Designer", slug: "degree-goal-game-designer", description:"Designs and develop video and computer games."}
 ```
-* Define one new opportunity, “IEEE Student Branch”, and another one of your own choosing.
+### Define one new opportunity, “IEEE Student Branch”, and another one of your own choosing.
 ```
     {
       name: "IEEE Student Branch",
@@ -62,7 +65,7 @@ This application demonstrates my understanding of the RadGrad data model by defi
       endActive: moment("2016-03-26").toDate()
     }
 ```
-* Define four new Tags of your own choosing. They should be useful and relevant to computer science students.
+### Define four new Tags of your own choosing. They should be useful and relevant to computer science students.
 ```
     {
       name: "Visualization",
@@ -89,5 +92,5 @@ This application demonstrates my understanding of the RadGrad data model by defi
       tagType: "locations"
     }
 ```
-* Define two new students. Each student should have at least four course instances, and four opportunity instances. Make sure all of your new additions are incorporated into the student profile definitions.
+### Define two new students. Each student should have at least four course instances, and four opportunity instances. Make sure all of your new additions are incorporated into the student profile definitions.
 
