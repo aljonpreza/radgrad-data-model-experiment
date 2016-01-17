@@ -8,7 +8,7 @@ This application demonstrates my understanding of the [RadGrad data model](https
 ### Define four additional courses of your choice from the ICS curriculum.
 
 ```
-{
+    {
       name: "Discrete Math for CS I",
       slug: "ics141",
       number: "ICS 141",
