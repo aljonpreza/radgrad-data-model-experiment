@@ -114,4 +114,5 @@ This application demonstrates my understanding of the [RadGrad data model](https
       role: RadGrad.role.student
     }
 ```
+Please refer to the [StudentProfile.js](https://github.com/aljonpreza/radgrad-data-model-experiment/blob/master/app/server/sample-data-model/definitions/StudentProfile.js) file to see John and Jane's profile definitions.
 
