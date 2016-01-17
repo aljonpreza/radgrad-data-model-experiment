@@ -94,3 +94,24 @@ This application demonstrates my understanding of the [RadGrad data model](https
 ```
 ### Define two new students. Each student should have at least four course instances, and four opportunity instances. Make sure all of your new additions are incorporated into the student profile definitions.
 
+```
+    {
+      firstName: "John",
+      middleName: "",
+      lastName: "Doe",
+      slug: "johndoe",
+      password: "foo",
+      uhEmail: "johndoe@hawaii.edu",
+      role: RadGrad.role.student
+    },
+    {
+      firstName: "Jane",
+      middleName: "",
+      lastName: "Doe",
+      slug: "janedoe",
+      password: "foo",
+      uhEmail: "janedoe@hawaii.edu",
+      role: RadGrad.role.student
+    }
+```
+
